@@ -1,0 +1,24 @@
+{
+    "dataSuccess":{
+      "id": "1425999",
+      "username": "mapud14",
+      "firstName": "Mapud",
+      "lastName": "Nopal",
+      "email": "mapudemm@gmail.com",
+      "password": "kuranginaja",
+      "phone": "0812308123",
+      "userStatus": 4
+    },
+    "dataBadInput":{
+      "id": "a",
+      "username": "mapud14",
+      "firstName": "Mapud",
+      "lastName": "Nopal",
+      "email": "mapudemm@gmail.com",
+      "password": "kuranginaja",
+      "phone": "0812308123",
+      "userStatus": 4
+    },
+      "errorMessage":"something bad happened",
+      "validUsername":"nfl14"
+}

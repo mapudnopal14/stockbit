@@ -1,0 +1,21 @@
+{
+    "dataSuccess":{
+        "id": "33332323133",
+        "category": {
+            "id": 0,
+            "name": "string"
+        },
+        "name": "boxie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    "dataFalse":77371
+}

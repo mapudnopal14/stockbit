@@ -1,0 +1,23 @@
+{
+    "dataSuccess":{
+        "id": "1745123",
+        "username": "nfl14",
+        "firstName": "Mahfudh",
+        "lastName": "Naufal",
+        "email": "mahfudhnaufalubl@gmail.com",
+        "password": "rahasia",
+        "phone": "08800880123",
+        "userStatus": 1
+      },
+    "dataBadInput":{
+        "id": "a",
+        "username": "nfl14",
+        "firstName": "Mahfudh",
+        "lastName": "Naufal",
+        "email": "mahfudhnaufalubl@gmail.com",
+        "password": "rahasia",
+        "phone": "08800880123",
+        "userStatus": 1
+      },
+      "errorMessage":"something bad happened"
+}

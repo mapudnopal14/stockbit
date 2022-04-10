@@ -1,0 +1,5 @@
+{
+    "validUsername":"nfl14",
+    "wrongUsername": "nfl14x",
+    "errorMessage": "User not found"
+}

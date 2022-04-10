@@ -1,0 +1,39 @@
+{
+    "dataSuccess":{
+        "id": 15,
+        "category": {
+          "id": 0,
+          "name": "string"
+        },
+        "name": "kucing oyen",
+        "photoUrls": [
+          "string"
+        ],
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ],
+        "status": "available"
+      },
+    "dataBadInput":{
+        "id": "ab",
+        "category": {
+          "id": 0,
+          "name": "string"
+        },
+        "name": "kucing oyen",
+        "photoUrls": [
+          "string"
+        ],
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ],
+        "status": "available"
+      },
+      "errorMessage":"something bad happened"
+}
